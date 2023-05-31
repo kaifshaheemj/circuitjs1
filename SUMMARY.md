@@ -1,4 +1,6 @@
 
+Iniatially i can't able to understand what you given after that i just implemented the procedures to do further.
+It's a firt i doing this type of project.
 
 This is very new project from my way of learning, I just made setup in the project but not fully completed.
 This project show me that i want to do more and more wider my knowledge and equip the skills.
