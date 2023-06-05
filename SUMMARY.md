@@ -3,22 +3,31 @@
 
 ![image](https://github.com/kaifshaheemj/circuitjs1/assets/107334941/24456c68-a20b-41bf-abf2-8cf15e0d888b)
 
-** Installed and plugined the GOOGLE WEB TOOLKIT (GWT)**
+
+
+**Installed and plugined the GOOGLE WEB TOOLKIT (GWT)**
 
 ![image](https://github.com/kaifshaheemj/circuitjs1/assets/107334941/8ce1be20-2818-4e2b-8e2b-583144d3549d)
 
-** Compiling using the GWT**
+
+
+**Compiling using the GWT**
 
 ![image](https://github.com/kaifshaheemj/circuitjs1/assets/107334941/a54a492b-8b0a-432c-9ef3-21d6ccfc658c)
 
-** Compiled Output**
+
+
+**Compiled Output**
 
 ![image](https://github.com/kaifshaheemj/circuitjs1/assets/107334941/73a52481-89a5-4ec8-80ea-1f4ac99d4c36)
 
-** When i run the code its showing the error as "Error: Could not find or load main class com.google.gwt.dev.codeserver.CodeServer
+
+
+**When i run the code its showing the error as "Error: Could not find or load main class com.google.gwt.dev.codeserver.CodeServer
 Caused by: java.lang.ClassNotFoundException: com.google.gwt.dev.codeserver.CodeServer"**
 
 ![image](https://github.com/kaifshaheemj/circuitjs1/assets/107334941/8ae3455f-34b2-47ad-86b2-cdd3595ed642)
+
 
 I can't able rectify the error in that code.
 
