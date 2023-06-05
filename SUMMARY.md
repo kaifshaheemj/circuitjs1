@@ -1,4 +1,7 @@
 
+**I done the S1 Screening task Install/deploy the system as a web application and
+Exploring  various possibilities as mentioned in the repository.**
+
 **Loading the github folder to the Eclipse.**
 
 ![image](https://github.com/kaifshaheemj/circuitjs1/assets/107334941/24456c68-a20b-41bf-abf2-8cf15e0d888b)
