@@ -1,5 +1,5 @@
 
-**I done the S1 Screening task Install/deploy the system as a web application and
+**I done the S1 Screening task, Install/deploy the system as a web application and
 Exploring  various possibilities as mentioned in the repository.**
 
 **Loading the github folder to the Eclipse.**
